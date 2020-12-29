@@ -1,5 +1,4 @@
 EGT Thermostat demo
-
 ====
 
 Hardware:<br>
