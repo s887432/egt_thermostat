@@ -1,5 +1,7 @@
 EGT Thermostat demo
+
 ====
+
 Hardware:<br>
 -----
 Microchip MPU<br>
