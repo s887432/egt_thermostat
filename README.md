@@ -1,9 +1,7 @@
-# egt_thermostat
-
-EGT Thermostat demo
+#EGT Thermostat demo
 ====
-Hardware:<b>
-Microchip MPU<b>
+Hardware:<p>
+Microchip MPU<p>
 SAM9x60-EK, SAMA5D27-SOM1-EK, SAMA5D27-WLSOM1-EK, SAMA5D2-XPLAINED
 -------
 Software:
